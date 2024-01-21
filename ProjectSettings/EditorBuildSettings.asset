@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: f5ad960c990dd3449abfc8ad5cc6860a
+  - enabled: 1
+    path: Assets/Scenes/HallRoom.unity
+    guid: 30dcbdaf79d42734795101fbfcc73220
+  - enabled: 1
+    path: Assets/Scenes/Armory.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 71b687e57998b354c99a774f289d89e1
+  - enabled: 1
+    path: Assets/Scenes/Stairways.unity
+    guid: 52b5d4efa80e99544ac747f9a91a7bd9
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 43e2a625e8aa13745a352a559d15391a
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: b389945e8238d614681d5ccd07891533
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: adba5cb0dbd2e824f97474a5b70c5f13
+  - enabled: 1
+    path: Assets/Scenes/Catacombs.unity
+    guid: 67ee4543bd1e5d146805025b1fe6df44
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: a7a54e0fde3f6b447a396b4a611dc672
+  - enabled: 1
+    path: Assets/Scenes/ThroneRoom.unity
+    guid: b3409a7c547583d4899ff514d529023b
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: ade372b92bc4cdb4dac7a22cd1768e7b
+  m_configObjects: {}

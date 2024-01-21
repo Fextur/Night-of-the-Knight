@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Backgrounds
+  - Everything
+  - Doors
+  - Fires
+  - Lamps
+  - Enemies
+  - Items
+  - Info
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BTS
+    uniqueID: 1845476689
+    locked: 0
+  - name: BG
+    uniqueID: 3866519119
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackEffects
+    uniqueID: 3763258603
+    locked: 0
+  - name: MidEffects
+    uniqueID: 2424074717
+    locked: 0
+  - name: Items
+    uniqueID: 3084944545
+    locked: 0
+  - name: Creatures
+    uniqueID: 3300442195
+    locked: 0
+  - name: Player
+    uniqueID: 3239504101
+    locked: 0
+  - name: FrontEffects
+    uniqueID: 2454363263
+    locked: 0
+  - name: FrontEffects2
+    uniqueID: 777369419
+    locked: 0
+  - name: FrontEffects3
+    uniqueID: 713958071
+    locked: 0
+  - name: FrontEffects4
+    uniqueID: 2101707223
+    locked: 0
+  - name: Information
+    uniqueID: 2965512327
+    locked: 0
